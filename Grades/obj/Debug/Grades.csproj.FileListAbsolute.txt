@@ -12,3 +12,10 @@ G:\C#\Proyectos\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.ca
 G:\C#\Proyectos\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
 G:\C#\Proyectos\Grades\Grades\obj\Debug\Grades.exe
 G:\C#\Proyectos\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\Diego\Documents\GitHub\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\Diego\Documents\GitHub\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\Diego\Documents\GitHub\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\Diego\Documents\GitHub\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\GitHub\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\GitHub\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\Diego\Documents\GitHub\Grades\Grades\obj\Debug\Grades.pdb

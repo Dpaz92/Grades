@@ -21,5 +21,32 @@ namespace Grades.Tests
             Assert.AreEqual(90, result.highestGrade);
 
         }
+
+
+        [TestMethod]
+        public void ComputesLowestGrade()
+        {
+            Gradebook book = new Gradebook();
+            book.AddGrade(10);
+            book.AddGrade(90);
+
+            GradeStatistics result = book.ComputeStatistics();
+            Assert.AreEqual(10, result.lowestGrade);
+
+        }
+
+        [TestMethod]
+        public void ComputesAverageGrade()
+        {
+            Gradebook book = new Gradebook();
+            book.AddGrade(91);
+            book.AddGrade(89.5f);
+            book.AddGrade(75);
+
+            GradeStatistics result = book.ComputeStatistics();
+            Assert.AreEqual(85.16, result.averageGrade, 0.1);   
+
+        }
+
     }
 }
