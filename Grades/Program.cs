@@ -11,7 +11,8 @@ namespace Grades
     {
         static void Main(string[] args)
         {
-
+            
+            
             Gradebook book = new Gradebook();
             book.AddGrade(89.5f);
             book.AddGrade(91f);
@@ -23,6 +24,7 @@ namespace Grades
             Console.WriteLine(stats.highestGrade);
             Console.WriteLine(stats.averageGrade);
             Console.WriteLine(stats.lowestGrade);
+            
         }
     }
 }
