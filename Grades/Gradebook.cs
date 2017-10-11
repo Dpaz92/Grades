@@ -11,6 +11,7 @@ namespace Grades
     {
         //attributes
         private List<float> notas;
+        public string Name;
 
         //constructor
         public Gradebook()
